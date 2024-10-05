@@ -1,4 +1,4 @@
-# ECE_128-Lab3
+# ECE_128-Lab3 Edwin Chung
 Repository for ECE 128 Lab 3
 
 Contains code for:
